@@ -1,3 +1,4 @@
 {
-    "gpu-monitor.selectedGpuIndex": 2
+    "gpu-monitor.selectedGpuIndex": 2,
+    "cloudcode.verboseLogging": true
 }
